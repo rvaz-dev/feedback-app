@@ -1,5 +1,5 @@
 import { FaQuestion } from 'react-icons/fa'
-import { Link, NavLink } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 function AboutIconLink() {
     return (
